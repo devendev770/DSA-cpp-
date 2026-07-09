@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0090-subsets-ii) |
 | [1288-remove-covered-intervals](https://github.com/devendev770/DSA-cpp-/tree/master/1288-remove-covered-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devendev770/DSA-cpp-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/devendev770/DSA-cpp-/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devendev770/DSA-cpp-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/devendev770/DSA-cpp-/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devendev770/DSA-cpp-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devendev770/DSA-cpp-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/devendev770/DSA-cpp-/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devendev770/DSA-cpp-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devendev770/DSA-cpp-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devendev770/DSA-cpp-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/devendev770/DSA-cpp-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
