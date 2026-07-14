@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0090-subsets-ii) |
 | [1288-remove-covered-intervals](https://github.com/devendev770/DSA-cpp-/tree/master/1288-remove-covered-intervals) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devendev770/DSA-cpp-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendev770/DSA-cpp-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/devendev770/DSA-cpp-/tree/master/3620-network-recovery-pathways) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/devendev770/DSA-cpp-/tree/master/0131-palindrome-partitioning) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0090-subsets-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendev770/DSA-cpp-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devendev770/DSA-cpp-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
@@ -102,4 +106,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/devendev770/DSA-cpp-/tree/master/1291-sequential-digits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
