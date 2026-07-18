@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/devendev770/DSA-cpp-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/devendev770/DSA-cpp-/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/devendev770/DSA-cpp-/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/devendev770/DSA-cpp-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0090-subsets-ii) |
+| [0401-binary-watch](https://github.com/devendev770/DSA-cpp-/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendev770/DSA-cpp-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
