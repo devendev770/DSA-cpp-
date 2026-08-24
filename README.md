@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/devendev770/DSA-cpp-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/devendev770/DSA-cpp-/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/devendev770/DSA-cpp-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0090-subsets-ii) |
 | [1260-shift-2d-grid](https://github.com/devendev770/DSA-cpp-/tree/master/1260-shift-2d-grid) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/devendev770/DSA-cpp-/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/devendev770/DSA-cpp-/tree/master/0131-palindrome-partitioning) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendev770/DSA-cpp-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/devendev770/DSA-cpp-/tree/master/3620-network-recovery-pathways) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/devendev770/DSA-cpp-/tree/master/1927-sum-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/devendev770/DSA-cpp-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
