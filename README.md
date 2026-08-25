@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/devendev770/DSA-cpp-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/devendev770/DSA-cpp-/tree/master/0152-maximum-product-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/devendev770/DSA-cpp-/tree/master/0643-maximum-average-subarray-i) |
 | [1260-shift-2d-grid](https://github.com/devendev770/DSA-cpp-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/devendev770/DSA-cpp-/tree/master/1288-remove-covered-intervals) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/devendev770/DSA-cpp-/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/devendev770/DSA-cpp-/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
