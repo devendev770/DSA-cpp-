@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/devendev770/DSA-cpp-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devendev770/DSA-cpp-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devendev770/DSA-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devendev770/DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/devendev770/DSA-cpp-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devendev770/DSA-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devendev770/DSA-cpp-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devendev770/DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,12 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devendev770/DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/devendev770/DSA-cpp-/tree/master/1927-sum-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendev770/DSA-cpp-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devendev770/DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/devendev770/DSA-cpp-/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devendev770/DSA-cpp-/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devendev770/DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/devendev770/DSA-cpp-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devendev770/DSA-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devendev770/DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
