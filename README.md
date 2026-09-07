@@ -208,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/devendev770/DSA-cpp-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devendev770/DSA-cpp-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/devendev770/DSA-cpp-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/devendev770/DSA-cpp-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
