@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devendev770/DSA-cpp-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/devendev770/DSA-cpp-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devendev770/DSA-cpp-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/devendev770/DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/devendev770/DSA-cpp-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devendev770/DSA-cpp-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendev770/DSA-cpp-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/devendev770/DSA-cpp-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0142-linked-list-cycle-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devendev770/DSA-cpp-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/devendev770/DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devendev770/DSA-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devendev770/DSA-cpp-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devendev770/DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/devendev770/DSA-cpp-/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3483-unique-3-digit-even-numbers](https://github.com/devendev770/DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devendev770/DSA-cpp-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/devendev770/DSA-cpp-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/devendev770/DSA-cpp-/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/devendev770/DSA-cpp-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/devendev770/DSA-cpp-/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/devendev770/DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
