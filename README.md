@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/devendev770/DSA-cpp-/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/devendev770/DSA-cpp-/tree/master/0152-maximum-product-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devendev770/DSA-cpp-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devendev770/DSA-cpp-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendev770/DSA-cpp-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/devendev770/DSA-cpp-/tree/master/3620-network-recovery-pathways) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/devendev770/DSA-cpp-/tree/master/0002-add-two-numbers) |
 | [0836-rectangle-overlap](https://github.com/devendev770/DSA-cpp-/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devendev770/DSA-cpp-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1927-sum-game](https://github.com/devendev770/DSA-cpp-/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devendev770/DSA-cpp-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devendev770/DSA-cpp-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devendev770/DSA-cpp-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/devendev770/DSA-cpp-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/devendev770/DSA-cpp-/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devendev770/DSA-cpp-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devendev770/DSA-cpp-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
