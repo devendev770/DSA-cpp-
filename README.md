@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/devendev770/DSA-cpp-/tree/master/0131-palindrome-partitioning) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devendev770/DSA-cpp-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devendev770/DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/devendev770/DSA-cpp-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/devendev770/DSA-cpp-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0142-linked-list-cycle-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devendev770/DSA-cpp-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendev770/DSA-cpp-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devendev770/DSA-cpp-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/devendev770/DSA-cpp-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/devendev770/DSA-cpp-/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devendev770/DSA-cpp-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/devendev770/DSA-cpp-/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/devendev770/DSA-cpp-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devendev770/DSA-cpp-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
