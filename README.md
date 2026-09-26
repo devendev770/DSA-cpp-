@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/devendev770/DSA-cpp-/tree/master/0131-palindrome-partitioning) |
+| [0680-valid-palindrome-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devendev770/DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devendev770/DSA-cpp-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/devendev770/DSA-cpp-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/devendev770/DSA-cpp-/tree/master/0283-move-zeroes) |
+| [0680-valid-palindrome-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/devendev770/DSA-cpp-/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/devendev770/DSA-cpp-/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/devendev770/DSA-cpp-/tree/master/0977-squares-of-a-sorted-array) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/devendev770/DSA-cpp-/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devendev770/DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendev770/DSA-cpp-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
