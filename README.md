@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/devendev770/DSA-cpp-/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/devendev770/DSA-cpp-/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/devendev770/DSA-cpp-/tree/master/0643-maximum-average-subarray-i) |
+| [0977-squares-of-a-sorted-array](https://github.com/devendev770/DSA-cpp-/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/devendev770/DSA-cpp-/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/devendev770/DSA-cpp-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/devendev770/DSA-cpp-/tree/master/1288-remove-covered-intervals) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/devendev770/DSA-cpp-/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/devendev770/DSA-cpp-/tree/master/1288-remove-covered-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/devendev770/DSA-cpp-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devendev770/DSA-cpp-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/devendev770/DSA-cpp-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/devendev770/DSA-cpp-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/devendev770/DSA-cpp-/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/devendev770/DSA-cpp-/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendev770/DSA-cpp-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devendev770/DSA-cpp-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
