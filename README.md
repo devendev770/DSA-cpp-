@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devendev770/DSA-cpp-/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/devendev770/DSA-cpp-/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/devendev770/DSA-cpp-/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/devendev770/DSA-cpp-/tree/master/0242-valid-anagram) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/devendev770/DSA-cpp-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/devendev770/DSA-cpp-/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devendev770/DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/devendev770/DSA-cpp-/tree/master/0881-boats-to-save-people) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/devendev770/DSA-cpp-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
