@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/devendev770/DSA-cpp-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/devendev770/DSA-cpp-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/devendev770/DSA-cpp-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/devendev770/DSA-cpp-/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/devendev770/DSA-cpp-/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/devendev770/DSA-cpp-/tree/master/0881-boats-to-save-people) |
@@ -251,12 +252,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/devendev770/DSA-cpp-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/devendev770/DSA-cpp-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/devendev770/DSA-cpp-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devendev770/DSA-cpp-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devendev770/DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/devendev770/DSA-cpp-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devendev770/DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
