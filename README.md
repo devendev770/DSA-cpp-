@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/devendev770/DSA-cpp-/tree/master/1480-running-sum-of-1d-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devendev770/DSA-cpp-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/devendev770/DSA-cpp-/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/devendev770/DSA-cpp-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devendev770/DSA-cpp-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/devendev770/DSA-cpp-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/devendev770/DSA-cpp-/tree/master/1260-shift-2d-grid) |
+| [2073-time-needed-to-buy-tickets](https://github.com/devendev770/DSA-cpp-/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/devendev770/DSA-cpp-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devendev770/DSA-cpp-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -352,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/devendev770/DSA-cpp-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devendev770/DSA-cpp-/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/devendev770/DSA-cpp-/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/devendev770/DSA-cpp-/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
