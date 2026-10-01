@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/devendev770/DSA-cpp-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/devendev770/DSA-cpp-/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/devendev770/DSA-cpp-/tree/master/1480-running-sum-of-1d-array) |
+| [1856-maximum-subarray-min-product](https://github.com/devendev770/DSA-cpp-/tree/master/1856-maximum-subarray-min-product) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/devendev770/DSA-cpp-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devendev770/DSA-cpp-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/devendev770/DSA-cpp-/tree/master/2073-time-needed-to-buy-tickets) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/devendev770/DSA-cpp-/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/devendev770/DSA-cpp-/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/devendev770/DSA-cpp-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1856-maximum-subarray-min-product](https://github.com/devendev770/DSA-cpp-/tree/master/1856-maximum-subarray-min-product) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devendev770/DSA-cpp-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/devendev770/DSA-cpp-/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devendev770/DSA-cpp-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devendev770/DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1856-maximum-subarray-min-product](https://github.com/devendev770/DSA-cpp-/tree/master/1856-maximum-subarray-min-product) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/devendev770/DSA-cpp-/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/devendev770/DSA-cpp-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1856-maximum-subarray-min-product](https://github.com/devendev770/DSA-cpp-/tree/master/1856-maximum-subarray-min-product) |
 ## Matrix
 |  |
 | ------- |
@@ -355,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/devendev770/DSA-cpp-/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/devendev770/DSA-cpp-/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/devendev770/DSA-cpp-/tree/master/2073-time-needed-to-buy-tickets) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/devendev770/DSA-cpp-/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
