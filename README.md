@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/devendev770/DSA-cpp-/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/devendev770/DSA-cpp-/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/devendev770/DSA-cpp-/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/devendev770/DSA-cpp-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devendev770/DSA-cpp-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/devendev770/DSA-cpp-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/devendev770/DSA-cpp-/tree/master/0496-next-greater-element-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/devendev770/DSA-cpp-/tree/master/0215-kth-largest-element-in-an-array) |
 | [3620-network-recovery-pathways](https://github.com/devendev770/DSA-cpp-/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/devendev770/DSA-cpp-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/devendev770/DSA-cpp-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devendev770/DSA-cpp-/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/devendev770/DSA-cpp-/tree/master/0881-boats-to-save-people) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/devendev770/DSA-cpp-/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/devendev770/DSA-cpp-/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -363,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/devendev770/DSA-cpp-/tree/master/1856-maximum-subarray-min-product) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/devendev770/DSA-cpp-/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
